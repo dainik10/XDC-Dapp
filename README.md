@@ -1,3 +1,10 @@
+To run this in your Local Device here are some of the commands that are needed to run your Dapp:-
+1-> npm i
+2.> npx hardhat compile
+3.> npx hardhat run scripts/deploy.js --network xdc
+4-> npm run start (this will start the development server)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
